@@ -5,5 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "rambda": "^3.1.0"
   }
 }

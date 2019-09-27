@@ -7,6 +7,7 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "rambda": "^3.1.0"
+    "ramda": "^0.26.1",
+    "text-table": "^0.2.0"
   }
 }

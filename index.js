@@ -2,7 +2,7 @@
  * PROBLEM STATEMENT
  * - You have 100 cities to choose where to work from, you have the necessary stats
  * E.g - Internet Speeds, Cost of Living, Temperature among others
- * Use your programming skills to choose a city from the given 100.
+ * Use your programming skills to choose 10 cities from the given 100.
  */
 
 const cities = require("./cities.json");
